@@ -2,8 +2,6 @@ fx_version 'adamant'
 
 game 'gta5'
 
------------- RAGEUI ------------
-
 
 client_scripts {
     "src/RMenu.lua",
@@ -35,9 +33,6 @@ server_scripts {
 }
 
 
-
 dependencies {
 	'es_extended'
 }
-
-client_script 'blips.lua'
